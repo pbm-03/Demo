@@ -7,6 +7,6 @@ Dt-13-12-2024
 pav bhaji
 rajma chawal
 
-Dt-14-12-2024
+dt-14-12-2024
 samosa
-egg bhurji
+chicken
